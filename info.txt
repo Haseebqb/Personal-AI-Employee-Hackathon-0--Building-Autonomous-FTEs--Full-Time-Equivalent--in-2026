@@ -1,4 +1,4 @@
-Company Name: NexaTech Solutions
+Company Name: NexaTech Solutions (Registration Code: 265515)
 
 NexaTech Solutions is a technology company founded in 2020 that specializes in Internet of Things (IoT), Artificial Intelligence (AI), and embedded systems development. The company is headquartered in Lahore, Pakistan, and serves clients globally.
 
